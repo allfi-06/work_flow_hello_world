@@ -1,0 +1,14 @@
+# This workflow prints the GitHub username when a commit is pushed to main
+name: print-name
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  print-user-name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print GitHub Username
+        run: echo "GitHub username:${{ github.actor }}"
