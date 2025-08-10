@@ -40,5 +40,5 @@ For professional demonstration and educational purposes.
 
 ## Workflow Status
 
-![Workflow Status](https://github.com/allfi-06/work_flow_hello_world/actions/workflows/print-name.yml/badge.svg)
+![Workflow Status](https://github.com/allfi-06/work_flow_hello_world/actions/workflows/print-name.yaml/badge.svg)
       
