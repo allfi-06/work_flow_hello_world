@@ -35,8 +35,8 @@ This repository was created for an assignment involving:
 - Confirming successful workflow execution in response to repository activity
 
 ## Author
-Maintained by allfi-06
-For professional demonstration and educational purposes.
+- Maintained by allfi-06
+- For professional demonstration and educational purposes.
 
 ## Workflow Status
 
